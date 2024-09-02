@@ -8,4 +8,4 @@ Specifically, we provide the following files:
 
 **Reference**
 
-A. Spinelli, F. Maggioni, T. R. P. Ramos, A. P. Barbosa-Póvoa, and D. Vigo. (2024). _A rolling horizon heuristic approach for a multi-stage stochastic waste collection problem_. Submitted, under second revision.
+A. Spinelli, F. Maggioni, T. R. P. Ramos, A. P. Barbosa-Póvoa, and D. Vigo. (2024). _A rolling horizon heuristic approach for a multi-stage stochastic waste collection problem_. Submitted, under second revision. Preprint available at https://arxiv.org/abs/2405.14499
